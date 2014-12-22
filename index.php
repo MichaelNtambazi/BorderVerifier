@@ -1,5 +1,5 @@
 <?php
-    $page_title = "Index | Project starter";
+    $page_title = "Index | BorderVerifier";
     $page_class = "index";
     require_once("inc/bootstrap.php");
 ?>
